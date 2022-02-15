@@ -1,0 +1,21 @@
+{
+    "token": "OTQxNjY2OTI1MjQxNTczNDg2.YgZRqg.c6yJA_KGbLc-FBoIMcbhpYMlBtk",
+    "UpdateMessageInterval": 4000,
+    "ChannelId": "940918834922131539",
+    "GameName": "fivem",
+    "EmbedInfo": {
+        "Title": "Makambo Gang RolePlay",
+        "Color": "#008000",
+        "Description": "Készülőben!\n\n**Összes Játékos:** <players>/<maxplayers>",
+        "ServerField1": "Teszt",
+        "ServerField2": "**IP Cím: [<ip>](https://discord.gg/8gSCSTKVVP)  Térkép: [<map>](https://discord.gg/8gSCSTKVVP)  Játékosok: [<players>/<maxplayers>](https://discord.gg/8gSCSTKVVP)**"
+    },
+    "Servers": [
+        {
+            "ServerIp": "gangrp.ddns.net",
+            "ServerPort": "30120",
+            "ShowPlayers": true,
+            "UnsafeCount": false
+        }
+    ]
+}
